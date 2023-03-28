@@ -1,0 +1,58 @@
+# 国産初！学生がひとりで制作した自動化工場シム「moorestech」発表
+
+
+プレスリリースのPDF、Word、画像、テキストは以下のGoogleドライブにアップロードしてあります。ぜひご活用ください。
+https://drive.google.com/drive/folders/11XI7dQpcbvkuN90mp7gIiUL2d7ZbQKjU?usp=sharing
+
+## 人類の技術進化をたどるオープンソース工場シム
+
+インディーゲームクリエイターsakastudio（https://twitter.com/sakastudio_ ）は 2023年3月27日、新作の自動化工場シミュレーションゲーム
+「moorestech」を発表しました。 2024 年初頭に Steam でのリリースを目指しており、現在は公式 Discord サーバー（https://discord.gg/qTrSZtWytg ）にて開発中のデモ版が無料でプレイ可能です。 
+
+https://drive.google.com/file/d/15HYOxLmKyo3h6EPZ4tcMQTvDJRHfFnZy/view?usp=share_link
+画像：moorestechのコンセプトアート
+
+## 「人類の技術進化を辿る工業ゲーム」 moorestechとは
+
+moorestechは「人類の技術進化を辿る工業ゲーム」をコンセプトに開発している自動化工業ゲームです。自分の手で技術を積み重ねながら拡大生産を楽しめるゲームとなっています。最初は木や石など、原始的な材料を用いて水車や風車など原始的なクラフトから始まります。その後、金属や蒸気機関などより高度な設備をクラフトし、最終的には核融合炉や宇宙エレベーターの作成を目指します。その過程で、大規模な工場を建設し、研究やタスクをこなしていきます。このように、人類が発展させてきた技術を自ら開発、クラフトしていきながら、工場を発展させていくゲームとなっています。
+また、専門家の協力を得る予定で、実際の歴史的事実に基づいたゲームデザインでプレイしながら歴史を学ぶことができるようにしていく予定です。
+
+https://drive.google.com/file/d/1ayuCTkjtX8fm-r8crjxiKcFWnP_b8vT0/view?usp=share_link
+画像：「moorestech」（開発版）のゲーム画面のスクリーンショット
+
+## Minecraft風のインベントリとクラフトシステム
+
+このゲームではMinecraft風のインベントリとクラフトシステムを採用しています。クラフト画面はシンプルで、Minecraftをプレイしたことある方なら直感的に操作できるようになっています。これにより、プレイヤーは自分で考えて新しいアイテムや設備をクラフトする楽しみや達成感を味わえるようになっています。
+
+https://drive.google.com/file/d/1WFcrFWsfgSO2g0_C_QQMgzNEiC6YklCc/view?usp=share_link
+画像：「moorestech」（開発版）のクラフト画面のスクリーンショット
+
+## modサポートとゲームプログラムの公開
+
+このゲームはmodサポートに全力を注いでおり、誰でも高度なmod開発ができるような環境を整備しています。 moorestechでは簡単にmodを開発できるように工夫されていて、ブラウザ使用できるmodエディタ（https://doc.moores.tech/docs/mod-development/mooreseditor/intro/ ）で新しいアイテムやブロックなどが作れるほか、modエディタやmoorestechのゲーム本体のプログラムはGitHub（https://github.com/moorestech ）で公開されており、誰でも改良や参考にすることが可能です。
+
+https://drive.google.com/file/d/1-Tf4k3L70-USVgbSG0Fl8HVTJ0gRN_Cd/view?usp=share_link
+画像：modエディタのスクリーンショット（開発版）
+
+## 開発中のデモ版が体験可能
+
+　現在は開発版のデモ版が無料でプレイ可能です。デモ版では以下の内容が体験できます。
+・基本的なクラフトシステム
+・アイテム作成の自動化システム
+・採掘など資源最終の自動化システム
+・modのロード機能
+・modエディタによるmod開発
+
+デモ版ではストーリー要素や技術開発要素は実装されていませんが、今後順次追加していく予定です。デモ版は、公式Discordサーバー（https://discord.gg/qTrSZtWytg ）に入り、専用フォームにメールアドレスを入力することでSteamのキーを手に入れることができます。デモ版のプレイヤーからのフィードバックや要望も大歓迎です。
+
+
+【ゲーム詳細】
+ゲームタイトル：moorestech
+ジャンル：自動化工場シム
+プラットフォーム：Steam
+公式サイト：https://www.moores.tech/
+公式Discord：https://discord.gg/qTrSZtWytg
+
+【開発者問い合わせ先】
+Twitter：https://twitter.com/sakastudio_
+メールアドレス：sakastudio100@gmail.com
